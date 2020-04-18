@@ -1,5 +1,5 @@
 # Image-OCR---Extraction-to-Excel---Workflow
-An attempt to automate the process of extracting the transaction details from bank forms and store details in a excel file
+An attempt to automate the process of extracting the transaction details from bank forms and store details in an excel file using Optical Character Recognition using Tesseract engine and PyTesseract library
 
 Initial declaration
 
